@@ -1,5 +1,5 @@
 # OMEdit
-A Modelica connection editor for OpenModelica.
+A graphical Modelica connection editor for OpenModelica.
 
 ## Dependencies
 
